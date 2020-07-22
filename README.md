@@ -24,7 +24,13 @@
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
-[![Mayur's github stats](https://github-readme-stats.vercel.app/api?username=MThakkar121)](https://github.com/MThakkar121/github-readme-stats)
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MThakkar121&show_icons=true&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MThakkar121)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>
   ― See ya! 👋
