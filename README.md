@@ -33,5 +33,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MThakkar121)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>
-  ― See ya! 👋
+  ― Have a wonderful day! 👋
 </h3>
