@@ -1,3 +1,6 @@
+<h1 align="center">Hello I'm Mayur</h1>
+<h3 align="center">Web UI/UX Designer & Developer from India</h3>
+
 [![MasterHead](https://raw.githubusercontent.com/MThakkar121/Profile_Overview/master/chrome_GRDY5b5Z26.png)](https://mthakkar121.github.io/Mayurs-website/)
 
 ![](https://raw.githubusercontent.com/MThakkar121/Profile_Overview/master/wave.gif)
